@@ -1,4 +1,4 @@
-![image](https://github.com/MundhadHarsh/firewall/assets/97428445/47636234-ac3a-4cf9-a8dd-1fa5adacba33)# Windows Host-Based Firewall
+# Windows Host-Based Firewall
 
 A Firewall that goes beyond traditional firewall functionalities and integrates additional features such as packet filtering, IP blocking and Port Blocking. 
 Provides better visibility and control over network traffic.
