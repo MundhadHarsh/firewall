@@ -2,7 +2,7 @@
 
 A Firewall that goes beyond traditional firewall functionalities and integrates additional features such as packet filtering, IP blocking and Port Blocking. 
 Provides better visibility and control over network traffic.
-It has the bility to provide comprehensive protection for all traffic entering and leaving an organization's network![image](https://github.com/MundhadHarsh/firewall/assets/97428445/32c699f4-7ce6-42e0-a52a-0d663db2e9c6)
+It has the ability to provide comprehensive protection for all traffic entering and leaving an organization's network
 
 
 ## Technology
